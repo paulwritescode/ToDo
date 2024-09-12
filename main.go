@@ -3,8 +3,10 @@ package main
 import (
 	"fmt"
 	"log"
+	"os"
 
 	"github.com/gofiber/fiber/v2"
+	"github.com/joho/godotenv"
 )
 
 type Todo struct {
@@ -14,8 +16,15 @@ type Todo struct {
 }
 
 func main() {
-	fmt.Println("Hellow Moon, I love World")
+	fmt.Println("Hello, World!, this is Moon")
 	app := fiber.New()
+
+	// environment variables
+	err := godotenv.Load(".env")
+	if err != nil {
+		log.Fatal("Error loading .env file")
+	}
+	PORT := os.Getenv("PORT")
 
 	// Slice to hold todos globally
 	todos := []Todo{}
@@ -73,5 +82,5 @@ func main() {
 	})
 
 	// Start the server
-	log.Fatal(app.Listen(":4000"))
+	log.Fatal(app.Listen(":" + PORT))
 }
