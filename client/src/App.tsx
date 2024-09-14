@@ -3,7 +3,8 @@ import Navbar from "./components/Navbar";
 import TodoForm from "./components/TodoForm";
 import TodoList from "./components/TodoList";
 
-export const BASE_URL = "http://localhost:5000/api";
+export const BASE_URL =
+  import.meta.env.MODE === "development" ? "http://localhost:5000/api" : "/api";
 function App() {
   return (
     <>
@@ -24,8 +25,8 @@ function App() {
           />
           <Text fontSize="sm">
             <a target="_blank" href="https://paulmbugua.netlify.app/">
-              Copyright &copy; 2024 Paul (moon) <br />
-              Check out my work
+              2024 Paul (moon) <br />
+              To check out my work
             </a>
           </Text>
           <a target="_blank" href="https://paulmbugua.netlify.app/">
