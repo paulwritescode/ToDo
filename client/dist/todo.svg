@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="113.28923"
+   height="113.28923"
+   viewBox="0 0 113.28923 113.28923"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.8223495,-3.444191)">
+    <g
+       id="g14">
+      <circle
+         style="fill:#232e45;fill-opacity:1;stroke-width:40.1641;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="path14"
+         cx="62.466965"
+         cy="60.088806"
+         r="56.644615" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:74.9504px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#232e45;fill-opacity:1;stroke-width:13.9;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="56.912315"
+         y="88.461235"
+         id="text12"
+         transform="scale(1.0725393,0.93236676)"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           x="56.912315"
+           y="88.461235"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heathergreen;-inkscape-font-specification:Heathergreen;fill:#232e45;fill-opacity:1;stroke-width:13.9">O</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:74.0788px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ff0000;stroke-width:13.7384;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="59.513336"
+         y="89.526161"
+         id="text8"
+         transform="scale(1.0725393,0.93236676)"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="59.513336"
+           y="89.526161"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heathergreen;-inkscape-font-specification:Heathergreen;fill:#ff0000;stroke-width:13.7384">O</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.8847px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#232e45;fill-opacity:1;stroke-width:7.02597;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="41.274311"
+         y="86.769791"
+         id="text13"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           x="41.274311"
+           y="86.769791"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#232e45;fill-opacity:1;stroke-width:7.02597">D</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.5991px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ffffff;stroke-width:6.60209;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="40.138741"
+         y="86.376419"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="40.138741"
+           y="86.376419"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:6.60209">D</tspan></text>
+      <path
+         style="font-weight:bold;font-size:29.4567px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:7.39438;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="M 51.371018,61.48969 V 33.739326 h 6.259781 l 0.125163,28.584818 z M 42.55948,38.802969 v -5.462355 l 25.810348,-0.137678 c -1.675258,0.861011 -3.483601,2.060353 -5.428442,5.501692 -1.980665,0.03933 -12.420953,0.09834 -20.381906,0.09834 z"
+         id="text2"
+         aria-label="T"
+         sodipodi:nodetypes="cccccccccc" />
+    </g>
+  </g>
+</svg>
