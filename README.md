@@ -25,5 +25,5 @@ ToDo is a comprehensive task management tool that allows users to add, update, a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/paulwritescode/ToDo.git
+   cd ToDo
