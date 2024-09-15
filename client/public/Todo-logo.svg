@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Todo-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.47913842"
+     inkscape:cx="-2393.8802"
+     inkscape:cy="-69.917165"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g10"
+         id="use11" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g23"
+       transform="translate(-1034.888,-35.549835)">
+      <rect
+         style="fill:#000000;stroke-width:93.5447;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect15"
+         width="248.38782"
+         height="496.46317"
+         x="-1402.8462"
+         y="22.432732" />
+      <g
+         id="g18"
+         transform="translate(-11.806308,309.70901)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:56.6059px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ffffff;stroke-width:10.4979;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           x="-1333.4994"
+           y="-153.72749"
+           id="text1"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             x="-1333.4994"
+             y="-153.72749"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ffffff;stroke-width:10.4979">ToDo</tspan></text>
+        <g
+           id="g16"
+           transform="translate(-7.1457162,-7.4497067)">
+          <rect
+             style="fill:#000080;stroke-width:15.6553;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             id="rect10"
+             width="73.950218"
+             height="46.705414"
+             x="-1324.995"
+             y="-100.15517" />
+          <g
+             id="g4-5"
+             transform="matrix(2.1522735,0,0,2.1522735,-1385.5999,-233.19479)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.3005px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ffffff;stroke-width:4.8776;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               x="27.632479"
+               y="82.902954"
+               id="text2-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan2-3"
+                 x="27.632479"
+                 y="82.902954"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:4.8776">T</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:26.3005px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ffffff;stroke-width:4.8776;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+               x="26.370054"
+               y="103.51746"
+               id="text3-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan3-7"
+                 x="26.370054"
+                 y="103.51746"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:4.8776">D</tspan></text>
+          </g>
+          <g
+             id="g11"
+             clip-path="url(#clipPath11)"
+             transform="matrix(2.1522735,0,0,2.1522735,-1384.7922,-233.19479)">
+            <g
+               inkscape:label="Clip"
+               id="g10">
+              <path
+                 id="text8-7"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:33.3416px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ff0000;stroke-width:10.8533;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+                 d="m 56.417299,64.014979 v 16.076797 c 0,0.22871 -0.01935,0.452604 -0.05118,0.671874 v 17.552347 c 0,0.383086 -0.174165,0.707581 -0.52279,0.974067 -0.370415,0.266483 -0.803998,0.401835 -1.305146,0.401835 -0.50115,0 -0.927275,-0.135352 -1.2759,-0.401835 -0.370413,-0.266486 -0.555692,-0.590981 -0.555692,-0.974067 v -13.32821 c -1.100262,0.495692 -2.331688,0.752244 -3.707057,0.752244 -0.645972,0 -1.261466,-0.06188 -1.849869,-0.173594 v 12.251281 c 0,1.548982 0.718884,2.879952 2.156965,3.995902 1.459869,1.09927 3.205167,1.64913 5.231553,1.64913 2.048174,0 3.789819,-0.54986 5.227896,-1.64913 1.45987,-1.11595 2.18987,-2.44692 2.18987,-3.995902 V 69.486426 c 0,-1.548985 -0.73,-2.883171 -2.18987,-3.999106 -0.975038,-0.745329 -2.093276,-1.232356 -3.348778,-1.472341 z m -5.589829,0.581864 c -0.535689,0.241447 -1.045274,0.532373 -1.520843,0.890477 -1.348201,1.046187 -2.054422,2.286198 -2.138686,3.712998 v 11.392953 c 0,0.383081 0.185278,0.707566 0.555692,0.974058 0.348626,0.266493 0.774751,0.398626 1.275899,0.398626 0.50115,0 0.934733,-0.132133 1.305148,-0.398626 0.348626,-0.266492 0.52279,-0.590977 0.52279,-0.974058 z" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g17"
+           transform="translate(-3.8057481)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:119.178px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#000080;fill-opacity:1;stroke-width:22.1023;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             x="-1211.0962"
+             y="114.85548"
+             id="text12"
+             transform="scale(1.0725393,0.93236676)"><tspan
+               sodipodi:role="line"
+               id="tspan12"
+               x="-1211.0962"
+               y="114.85548"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heathergreen;-inkscape-font-specification:Heathergreen;fill:#000080;fill-opacity:1;stroke-width:22.1023">O</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:117.792px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ff0000;stroke-width:21.8454;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             x="-1206.9603"
+             y="116.54884"
+             id="text8"
+             transform="scale(1.0725393,0.93236676)"><tspan
+               sodipodi:role="line"
+               id="tspan8"
+               x="-1206.9603"
+               y="116.54884"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heathergreen;-inkscape-font-specification:Heathergreen;fill:#ff0000;stroke-width:21.8454">O</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60.2402px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#000000;fill-opacity:1;stroke-width:11.1719;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             x="-1330.3785"
+             y="113.91129"
+             id="text13"><tspan
+               sodipodi:role="line"
+               id="tspan13"
+               x="-1330.3785"
+               y="113.91129"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#000000;fill-opacity:1;stroke-width:11.1719">D</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:56.6059px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ffffff;stroke-width:10.4979;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             x="-1332.1842"
+             y="113.2858"
+             id="text3"><tspan
+               sodipodi:role="line"
+               id="tspan3"
+               x="-1332.1842"
+               y="113.2858"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:10.4979">D</tspan></text>
+          <path
+             style="font-weight:bold;font-size:29.4567px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:11.7577;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+             d="M -1314.3239,73.7136 V 29.58799 h 9.9536 l 0.1991,45.45247 z m -14.0112,-36.07395 v -8.68564 l 41.0409,-0.21893 c -2.6638,1.36909 -5.5393,3.27615 -8.6317,8.7482 -3.1495,0.0625 -19.7505,0.15636 -32.4092,0.15636 z"
+             id="text2"
+             aria-label="T"
+             sodipodi:nodetypes="cccccccccc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15"
+       inkscape:export-filename="todo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.33482666,0,0,0.33482666,-2464.2332,103.24238)">
+      <rect
+         style="fill:#232e45;fill-opacity:1;stroke-width:32.1734;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect14"
+         width="698.87531"
+         height="621.22253"
+         x="-774.82129"
+         y="-339.23901" />
+      <g
+         id="g14"
+         inkscape:export-filename="todo.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         transform="matrix(4.7103983,0,0,4.7103983,-719.62795,-311.66995)">
+        <circle
+           style="fill:#232e45;fill-opacity:1;stroke-width:40.1641;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           id="path14"
+           cx="62.466965"
+           cy="60.088806"
+           r="56.644615" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:74.9504px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#232e45;fill-opacity:1;stroke-width:13.9;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           x="56.912315"
+           y="88.461235"
+           id="text12-0"
+           transform="scale(1.0725393,0.93236676)"><tspan
+             sodipodi:role="line"
+             id="tspan12-9"
+             x="56.912315"
+             y="88.461235"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heathergreen;-inkscape-font-specification:Heathergreen;fill:#232e45;fill-opacity:1;stroke-width:13.9">O</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:74.0788px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ff0000;stroke-width:13.7384;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           x="59.513336"
+           y="89.526161"
+           id="text8-8"
+           transform="scale(1.0725393,0.93236676)"><tspan
+             sodipodi:role="line"
+             id="tspan8-1"
+             x="59.513336"
+             y="89.526161"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Heathergreen;-inkscape-font-specification:Heathergreen;fill:#ff0000;stroke-width:13.7384">O</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:37.8847px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#232e45;fill-opacity:1;stroke-width:7.02597;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           x="41.274311"
+           y="86.769791"
+           id="text13-1"><tspan
+             sodipodi:role="line"
+             id="tspan13-6"
+             x="41.274311"
+             y="86.769791"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#232e45;fill-opacity:1;stroke-width:7.02597">D</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35.5991px;font-family:Outfit;-inkscape-font-specification:'Outfit Medium';fill:#ffffff;stroke-width:6.60209;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           x="40.138741"
+           y="86.376419"
+           id="text3-5"><tspan
+             sodipodi:role="line"
+             id="tspan3-6"
+             x="40.138741"
+             y="86.376419"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:6.60209">D</tspan></text>
+        <path
+           style="font-weight:bold;font-size:29.4567px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#ffffff;stroke-width:7.39438;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+           d="M 51.371018,61.48969 V 33.739326 h 6.259781 l 0.125163,28.584818 z M 42.55948,38.802969 v -5.462355 l 25.810348,-0.137678 c -1.675258,0.861011 -3.483601,2.060353 -5.428442,5.501692 -1.980665,0.03933 -12.420953,0.09834 -20.381906,0.09834 z"
+           id="text2-0"
+           aria-label="T"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:124.7px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#000000;fill-opacity:1;stroke-width:23.1264;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="-2726.158"
+       y="-469.26553"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="-2726.158"
+         y="-469.26553"
+         style="stroke-width:23.1264">ToDo App Logo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.809px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#232e45;fill-opacity:1;stroke-width:7.75377;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="-2724.9602"
+       y="-364.09406"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         x="-2724.9602"
+         y="-364.09406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:Outfit;fill:#000000;stroke-width:7.75377">Noun: Task, Do</tspan><tspan
+         sodipodi:role="line"
+         x="-2724.9602"
+         y="-311.83279"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:Outfit;fill:#000000;stroke-width:7.75377"
+         id="tspan20">Verb: Complete, Satisfaction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.809px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#232e45;fill-opacity:1;stroke-width:7.75377;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="-2727.0923"
+       y="-25.60367"
+       id="text22"><tspan
+         sodipodi:role="line"
+         x="-2727.0923"
+         y="-25.60367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:Outfit;fill:#000000;stroke-width:7.75377"
+         id="tspan22">Final Logo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.809px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#232e45;fill-opacity:1;stroke-width:7.75377;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="-2439.0303"
+       y="-35.357937"
+       id="text23"><tspan
+         sodipodi:role="line"
+         x="-2439.0303"
+         y="-35.357937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:Outfit;fill:#000000;stroke-width:7.75377"
+         id="tspan23">Variants</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.809px;font-family:Outfit;-inkscape-font-specification:'Outfit Bold';fill:#232e45;fill-opacity:1;stroke-width:7.75377;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="-2725.6292"
+       y="-187.94037"
+       id="text24"><tspan
+         sodipodi:role="line"
+         x="-2725.6292"
+         y="-187.94037"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Outfit;-inkscape-font-specification:Outfit;fill:#000000;stroke-width:7.75377"
+         id="tspan24">Colors: 232e45ff, ff0000ff , ffffffff</tspan></text>
+  </g>
+</svg>
